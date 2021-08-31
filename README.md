@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou alessandrorsilva 👋
+
+- 🔭 Hoje trabalho na área de infra-estrutura de servidores e redes e, esgurança da informação.
+- 🌱 Estou estudando Pós-graduação em Desenvolvimento de Aplicações Web e Móveis Escaláveis, no Centro Universitário Municipal de Franca em parceria com o Luizalabs.
+- 😄 Pronouns: ele/dele
 
 <!--
-**alessandrorsilva/alessandrorsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
